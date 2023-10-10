@@ -170,7 +170,7 @@ def clean_code(df1):
 # ==================================================
 # Import dataset
 # ==================================================
-df = pd.read_csv('../dataset/train.csv')
+df = pd.read_csv('dataset/train.csv')
 
 # ==================================================
 # Limpando os dados
@@ -183,7 +183,6 @@ df1 = clean_code(df)
 # ==================================================
 st.markdown('# Marketplace - Visão Restaurantes')
 
-#image_path='/home/jadson/Documentos/Repos/logo.png'
 image=Image.open('logo.png')
 st.sidebar.image(image, width=340)
 

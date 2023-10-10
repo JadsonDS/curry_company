@@ -147,7 +147,6 @@ df1 = clean_code(df)
 # ==================================================
 st.markdown('# Marketplace - Visão Entregador')
 
-#image_path='/home/jadson/Documentos/Repos/logo.png'
 image=Image.open('logo.png')
 st.sidebar.image(image, width=340)
 
