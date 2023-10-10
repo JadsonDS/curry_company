@@ -7,7 +7,6 @@ pandas==2.1.1
 pil-plus==0.2
 plotly==5.17.0
 plotly-express==0.4.1
-python-apt==2.4.0+ubuntu2
 python-dateutil==2.8.2
 python-debian==0.1.43+ubuntu1.1
 python-json-logger==2.0.7
@@ -16,4 +15,3 @@ streamlit-elements==0.1.0
 streamlit-folium==0.13.0
 sympy==1.12
 systemd-python==234
-
